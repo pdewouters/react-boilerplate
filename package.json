@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pdewouters/react-boilerplate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pdewouters/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/pdewouters/react-boilerplate#readme"
 }
